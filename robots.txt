@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mbaoc.github.io/PbS/sitemap.PbS.gz
